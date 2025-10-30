@@ -1,5 +1,7 @@
+# NAME: T.KAVINAJAI
+# REGISTER NO: 212223100020
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+## DATE:30/10/2025
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
@@ -42,6 +44,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/119262f9-b2d1-445f-86e4-26c625411f01" />
+<img width="1192" height="843" alt="image" src="https://github.com/user-attachments/assets/40e764ac-40fb-4fe6-9cb9-71f684e79fbb" />
 
 ## RESULT:
 Thus, the cut section for solid model is created.
